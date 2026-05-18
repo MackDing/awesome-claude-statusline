@@ -1,0 +1,8 @@
+theme: jekyll-theme-minimal
+title: "Awesome Claude Code Statusline"
+description: "The most comprehensive collection of 80+ open-source Claude Code statusline and status bar projects. Customize your terminal with real-time token usage, rate limits, cost tracking, git status, and beautiful themes."
+url: "https://mackding.github.io"
+baseurl: "/awesome-claude-statusline"
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
