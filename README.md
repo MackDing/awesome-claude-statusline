@@ -131,6 +131,7 @@ Claude Code supports a customizable status line at the bottom of your terminal v
 | Project | Stars | Description |
 |---------|-------|-------------|
 | [hoangsonww/Claude-Code-Agent-Monitor](https://github.com/hoangsonww/Claude-Code-Agent-Monitor) | ⭐ 370 | Real-time monitoring dashboard — SQLite, Node.js, React, WebSockets |
+| [MackDing/claude-cli-session-monitor](https://github.com/MackDing/claude-cli-session-monitor) | ⭐ 1 | Real-time monitoring dashboard — token usage, session health, context window utilization |
 | [ishefi/zellaude](https://github.com/ishefi/zellaude) | ⭐ 53 | Claude Code-aware status bar plugin for Zellij |
 | [thoo/claude-code-zellij-status](https://github.com/thoo/claude-code-zellij-status) | ⭐ 37 | Monitor Claude Code across multiple Zellij panes via zjstatus |
 | [BrunoJurkovic/claude-code-discord-status](https://github.com/BrunoJurkovic/claude-code-discord-status) | ⭐ 14 | Live Discord Rich Presence card for Claude Code sessions |
