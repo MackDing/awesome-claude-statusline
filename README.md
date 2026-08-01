@@ -94,6 +94,7 @@ This awesome list collects **every known open-source Claude Code statusline proj
 | [CreatmanCEO/claude-statusline](https://github.com/CreatmanCEO/claude-statusline) | ⭐ 5 | Smart status line with VPS health, auto-focus — pure bash + jq (featured on Habr, 9.3K reads) |
 | [TheoBrigitte/claude-statusline](https://github.com/TheoBrigitte/claude-statusline) | ⭐ 5 | Fast and configurable Claude Code statusline |
 | [nguyentran4896/my-claude-statusline](https://github.com/nguyentran4896/my-claude-statusline) | ⭐ 5 | Git status, project info, model details, and token tracking |
+| [Gui-Gou/claude-statusline-burnrate](https://github.com/Gui-Gou/claude-statusline-burnrate) | ⭐ 0 | Weekly-limit pacing math — today’s share, sustainable burn rate, sleep-aware trend; bash + jq |
 
 ## Minimal & Lightweight
 
