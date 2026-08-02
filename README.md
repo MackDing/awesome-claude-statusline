@@ -110,6 +110,7 @@ This awesome list collects **every known open-source Claude Code statusline proj
 | [millenniumbismay/minimal-claude-status-line](https://github.com/millenniumbismay/minimal-claude-status-line) | ⭐ 3 | Minimal, information-dense — context, tokens, rate limits, git, cost |
 | [pessini/claudecode-status-line](https://github.com/pessini/claudecode-status-line) | ⭐ 3 | Simple, color-coded — install with one command via npx |
 | [littlehsun/claude-statusline](https://github.com/littlehsun/claude-statusline) | ⭐ 2 | Lightweight, zero-cost, 100% accurate rate limit tracking |
+| [braxhughes/claude-pool](https://github.com/braxhughes/claude-pool) | ⭐ 0 | Pool-aware switch advice — knows two config dirs on one login share one rate-limit pool. |
 
 ## Powerline & Themed
 
