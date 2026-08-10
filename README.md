@@ -144,6 +144,7 @@ This awesome list collects **every known open-source Claude Code statusline proj
 
 | Project | Stars | Description |
 |---------|-------|-------------|
+| [krayong/ccsidekick](https://github.com/krayong/ccsidekick) | ⭐ 20 | TypeScript on plain Node — 33 widgets, 75+ themes, transcript-derived cost, setup TUI |
 | [JerrettDavis/ClaudeStatusLineWidgets](https://github.com/JerrettDavis/ClaudeStatusLineWidgets) | ⭐ 4 | TypeScript statusline plugin — cache TTL, usage, session metrics |
 | [wyattjoh/claude-status-line](https://github.com/wyattjoh/claude-status-line) | ⭐ 0 | TypeScript/Deno-based — project info, git branch, model details, session time |
 
