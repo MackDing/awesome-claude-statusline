@@ -183,6 +183,7 @@ This awesome list collects **every known open-source Claude Code statusline proj
 |---------|-------|-------------|
 | [alvinunreal/openpets](https://github.com/alvinunreal/openpets) | ⭐ 723 | Desktop pets for AI coding agents — connect Claude Code via MCP, see live coding status |
 | [terryso/ccpet](https://github.com/terryso/ccpet) | ⭐ 64 | 🐾 A virtual pet that lives in your Claude Code status line |
+| [krayong/ccsidekick](https://github.com/krayong/ccsidekick) | ⭐ 20 | Reactive ASCII character that comments on your session, with 33 widgets and 75+ themes |
 | [kyleledbetter/claudecode-statusline](https://github.com/kyleledbetter/claudecode-statusline) | ⭐ 4 | Branded mini status app with auto-sizing box borders and live metrics |
 | [seangreenidge949-lang/claude-statusline](https://github.com/seangreenidge949-lang/claude-statusline) | ⭐ 3 | Session stats + Bramblewick — a rabbit who actually pays attention 🐰 |
 
